@@ -1,3 +1,12 @@
+# Parsip presentation
+
+This presentation was given as a lightning talk at pycon.se
+in 2014. The code for the presentation itself is from
+https://github.com/aaronr/revealz - the original README follows below.
+
+
+## Original revealz README
+
 So... this is basically Reveal.js, but with the Grunt/Node stuff stripped out.
 
 [Demo is here](http://aaronr.github.io/revealz)
